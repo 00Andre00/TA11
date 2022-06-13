@@ -7,7 +7,7 @@ public class Piloto {
     private Motocicleta motocicleta;
 
 
-    public Piloto(String nombre, int edad,int i) {
+    public Piloto(String nombre, int edad) {
 
         this.nombre = nombre;
         this.edad = edad;
